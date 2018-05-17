@@ -4,3 +4,4 @@
 
 ## Contents
 - [ECMA Script 6](https://github.com/MartinYounghoonKim/reviewww/tree/master/ecmascript6)
+- [Typescript](https://github.com/MartinYounghoonKim/reviewww/tree/master/typescript)
